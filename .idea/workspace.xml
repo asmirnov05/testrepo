@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HelloWorld:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5944a7c8-8e72-44dd-8474-537f6120b934" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -111,8 +116,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551806260475" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551806601928" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -137,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
       <module name="HelloWorld" />
@@ -151,6 +156,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorld" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\asmirnov\Documents\Projects\testrepo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="JAR Application.HelloWorld" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelloWorld" />
@@ -168,16 +185,15 @@
       <option name="presentableId" value="Default" />
       <updated>1551801809588</updated>
       <workItem from="1551801810777" duration="1963000" />
-      <workItem from="1551804587227" duration="877000" />
+      <workItem from="1551804587227" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2840000" />
+    <option name="totallyTimeSpent" value="3177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1915" y="-1088" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.098614074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,7 +204,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32975295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,6 +233,9 @@
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java" />
     <entry file="file://$PROJECT_DIR$/out/production/HelloWorld/HelloWorld.class" />
     <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sh.exe.stackdump">
